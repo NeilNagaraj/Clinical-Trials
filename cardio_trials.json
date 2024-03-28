@@ -1,0 +1,181 @@
+{
+	"TRIAL": {
+		"PROTOCOL": [
+			{
+				"PROTOCOL_NO": "CCR-20-41",
+				"TITLE": "A Multicenter, Randomized, Double-Blind, Parallel Group, Placebo-Controlled Trial to Evaluate the Effect of In-Hospital Initiation of Dapagliflozin on Clinical Outcomes in Patients with Heart Failure with Reduced Ejection Fraction Who Have Been Stabilized During Hospitalization for Acute Heart Failure",
+				"NCT_ID": "NCT04363697",
+				"SHORT_TITLE": "Dapagliflozin and Effect on Cardiovascular Events in Acute Heart Failure",
+				"INVESTIGATOR_NAME": "Dawn Lombardo",
+				"STATUS": "OPEN TO ACCRUAL",
+				"ELIGIBILITY": "18 Years and older  (Adult, Older Adult)\nAcute Heart Failure",
+				"DETAILED_ELIGIBILITY": "Inclusion Criteria\n1. Age >= 18 years (male or female)\n2. Currently hospitalized for AHF defined as meeting all the following criteria:\na. Presentation with worsening symptoms of heart failure (e.g., worsening dyspnea or dyspnea at rest, progressive fatigue, rapid weight gain, worsening edema/abdominal distention/anasarca)\nb. Objective signs or diagnostic testing consistent with volume overload (e.g., jugular venous distension, pulmonary basilar crackles, S3 gallop, ascites, hepatomegaly, peripheral edema, radiological evidence of pulmonary congestion, noninvasive or invasive hemodynamic evidence of elevated filling pressures)\nc. Intensification of AHF therapy during admission defined as at least one of the following:\ni. Augmentation of oral diuretic therapy [e.g., >= 2x outpatient regimen dose, addition of a second diuretic agent, or new initiation of diuretic therapy in a previously naïve patient] ii. Initiation of intravenous diuretic therapy iii. Initiation of intravenous vasoactive agent (e.g., inotrope or vasodilator)\n\nThe majority of enrolled patients should have an established history of heart failure (defined as present for >= 2 months and for which the patient is on treatment). Trial leadership will monitor this proportion and may cap enrollment of patients without an established history of heart failure (i.e., patients presenting with de novo heart failure).\n\n3. Left ventricular ejection fraction (LVEF) measured within the past 12 months (including during the current hospitalization)\n4. Elevated NT-proBNP or BNP during current hospitalization:\na. For patients with LVEF <= 40%: NT-proBNP >= 1600 pg/mL or BNP >= 400 pg/mL (NT-proBNP >= 2400 pg/mL or BNP >= 600 pg/mL if patient in atrial fibrillation or atrial flutter)\nb. For patients with LVEF >40%: NT-proBNP >= 1200 pg/mL or BNP >= 300 pg/mL (NT-proBNP >= 1800 pg/mL or BNP >= 450 pg/mL if patient in atrial fibrillation or atrial flutter)\n\n5. Eligible patients will be randomized no earlier than 24 hours and up to 14 days after presentation while still hospitalized once they have been stabilized, as defined by:\na. No increase (i.e., intensification) in the dose of intravenous diuretics during the 12 hours prior to randomization\nb. No use of intravenous vasodilators or inotropes during the 24 hours prior to randomization\n\nPatients across the spectrum of LVEF are eligible for participation in the trial. Trial leadership will monitor the proportion of patients with various LVEFs and may cap enrollment of certain subgroups to ensure a broad population.\n\nIn addition, patients with and without type 2 diabetes are eligible for participation in the trial. Trial leadership will monitor the proportion of patients with and without type 2 diabetes and may cap enrollment of one subgroup to ensure adequate representation of the other.",
+				"DESCRIPTION": "",
+				"PHASE_DESC": "III",
+				"TREATMENT_TYPE_DESC": "INT - Drug",
+				"AGE_DESCRIPTION": "Adults",
+				"SCOPE_DESC": "National",
+				"LOCATION_NAME": "",
+				"SUMMARY": "",
+				"MODIFIED_DATE": "2023-02-03T15:46:13",
+				"DEPARTMENT_NAME": "CCR",
+				"SPONSOR_NAMES": {
+					"SPONSOR_NAME": [
+						"AstraZeneca",
+						"TIMI Study Group"
+					]
+				},
+				"DISEASE_SITES": {
+					"DISEASE_SITE": [
+						"Heart - Cardiovascular/ Circulatory",
+						"Heart Failure"
+					]
+				},
+				"DRUG_NAMES": "",
+				"THERAPY_NAMES": ""
+			},
+			{
+				"PROTOCOL_NO": "CCR-21-66",
+				"TITLE": "LUX-Dx Heart Failure Sensors in an Insertable Cardiac Monitor System Clinical Study (LUX-Dx TRENDS)",
+				"NCT_ID": "NCT04790344",
+				"SHORT_TITLE": "LUX-Dx TRENDS Evaluates Diagnostics Sensors in Heart Failure Patients Receiving Boston Scientific's",
+				"INVESTIGATOR_NAME": "Dawn Lombardo",
+				"STATUS": "OPEN TO ACCRUAL",
+				"ELIGIBILITY": "Heart Failure\n18 Years and older   (Adult, Older Adult)",
+				"DETAILED_ELIGIBILITY": "Key Inclusion Criteria:\n1.  Patient is currently in NYHA Class II or III.\n2.  For patients with LVEF >40% measured on most recent available echocardiography within the previous 12 months:\n\na)  ONE (1) of the following echocardiography findings: LA width (diameter) >3.8 cm, LA length >5.0 cm, LA area >20 cm2, LA volume >55 ml, LA volume index >29 ml/m2, LVH defined by septal thickness or posterior wall thickness of >1.1 cm AND\nb)  ONE (1) of the following: Elevated BNP/NT-proBNP as defined by: BNP >100 pg/ml or NT-proBNP >300 pg/ml within the previous 90 days for patients not in atrial fibrillation or BNP >300 pg/ml or NT-proBNP >900 pg/ml for patients in atrial fibrillation at the time of screening for eligibility OR Documented heart failure hospitalization or unscheduled heart failure IV therapy in the previous 12 months\n\n3.   For patients with LVEF <40% (for MI patients, measured no less than 30 days post-MI) on most recent available echocardiography within the previous 12 months:\n\na)  ONE (1) of the following: Elevated BNP/NT-proBNP as defined by BNP >150 pg/ml or NT-proBNP >600 pg/ml within the previous 90 days for patients not in atrial fibrillation or BNP >450 pg/ml or NT-proBNP >1800 pg/ml for patients in atrial fibrillation at the time of screening for eligibility OR Documented heart failure hospitalization or unscheduled heart failure IV therapy in the previous 12 months\n\n4.  Patient is willing to be monitored in LATITUDE Clarity and use the ICM patient mobile app.\n5.  Patient is of legal age to give informed consent and is willing to participate in the trial.\n\nKey Exclusion Criteria:\n1.  Patient is currently implanted with any other active electronic medical device.\n2.  Patient has undergone a heart transplant.\n3.  Patient is currently enrolled in another investigational study (excluding registries) without prior written approval from Boston Scientific.\n4.  Patient is known to be pregnant at the time of enrollment or plans to become pregnant during study participation.\n5.  Patient is diagnosed with amyloidosis or hypertrophic cardiomyopathy.",
+				"DESCRIPTION": "The primary objective of this study is to collect physiological measurement data and heart failure (HF) event data that will be used to design and develop new diagnostic features for the insertable cardiac monitor (ICM) systems. This study will not have pre-defined statistical endpoints. To support the primary objective, diagnostic sensor data will be compared to reference clinical testing data and heart failure decompensation events.",
+				"PHASE_DESC": "N/A",
+				"TREATMENT_TYPE_DESC": "INT - Device",
+				"AGE_DESCRIPTION": "Adults",
+				"SCOPE_DESC": "National",
+				"LOCATION_NAME": "",
+				"SUMMARY": "The primary objective of this study is to collect sensor and heart failure (HF) event data that will be used to develop and test new diagnostic features for the insertable cardiac monitor (ICM) systems.",
+				"MODIFIED_DATE": "2023-05-31T11:27:50",
+				"DEPARTMENT_NAME": "CCR",
+				"SPONSOR_NAMES": {
+					"SPONSOR_NAME": "Boston Scientific"
+				},
+				"DISEASE_SITES": {
+					"DISEASE_SITE": [
+						"Heart Failure",
+						"Heart - Cardiovascular/ Circulatory"
+					]
+				},
+				"DRUG_NAMES": "",
+				"THERAPY_NAMES": ""
+			},
+			{
+				"PROTOCOL_NO": "CCR-22-101",
+				"TITLE": "Pragmatic Randomized Clinical Trial of Early Dronedarone versus Usual Care to Change and Improve Outcomes in Persons with First-Detected Atrial Fibrillation (CHANGE AFIB)",
+				"NCT_ID": "NCT05130268",
+				"SHORT_TITLE": "Early Dronedarone Versus Usual Care to Improve Outcomes in Persons With Newly Diagnosed Atrial Fibri",
+				"INVESTIGATOR_NAME": "Michael Rochon-Duck",
+				"STATUS": "OPEN TO ACCRUAL",
+				"ELIGIBILITY": "21 Years and older (Adult,  Older Adult )\nAtrial Fibriliation",
+				"DETAILED_ELIGIBILITY": "Inclusion Criteria:\n1.  Age >=21 years.\n2.  First-detected atrial fibrillation (defined as atrial fibrillation diagnosed in the previous 120 days).\n3.  Electrocardiographic documentation of atrial fibrillation.\n4.  Estimated life expectancy of at least 1 year.\n5.  Patient or legal authorized representative capable of giving signed informed consent, which includes compliance with the requirements and restrictions listed in the informed consent form (ICF) and in this protocol.\n\nExclusion Criteria:\n\n1. Patients with prior or planned treatment with rhythm control, either catheter ablation or chronic (>7 days) antiarrhythmic drug therapy.\n\n2. Planned cardiothoracic surgery. 4. New York Heart Association class III or IV heart failure or a hospitalization for heart failure in the last 4 weeks.\n\n3. Patients with reduced ejection fraction (LVEF less than or equal to 40%). 6. Permanent atrial fibrillation. 7. Ineligible for oral anticoagulation, unless CHA2DS2-VASc is less than 3 in women or 2 in men.\n\n4. Bradycardia with a resting heart rate < 50 bpm 9. PR interval >280 msec or 2nd degree or 3rd degree atrioventricular block without a permanent pacemaker/cardiac implanted electronic device.\n\n5. Corrected QT interval >=500 msec. 11. Pregnancy or breast feeding. 12. Severe hepatic impairment in the opinion of the investigator.",
+				"DESCRIPTION": "Overall Design:\n\nDronedarone is approved by the Food and Drug Administration to reduce the risk of CV hospitalization in patients with AF or atrial flutter. However, it is unknown if dronedarone (or any antiarrhythmic medication) can reduce CV hospitalization or death in patients with first-detected AF. This trial has been designed to address this important question. In order to facilitate the trial enrollment, data collection, and a generalizability to clinical practice, the CHANGE AFIB study has been designed as an open-label pragmatic clinical trial nested within the Get With The Guidelines (GWTG) Atrial Fibrillation registry. At present the overall GWTG program is being implemented in over 2,300 hospitals across the U.S. and is comprised of over 9 million patient records, with an estimated 650,000 new patient records entered per year. The trial will utilize the existing GWTG registry network, data collection architecture, and experience to facilitate both enrollment and conduct of the trial.\n\nThe comparator arm will be \"usual care.\" Thus, this study will compare usual care plus dronedarone versus usual care alone. In most patients, the investigators anticipate usual care to include an atrioventricular nodal blocking agent (beta-blocker, non-dihydropyridine calcium channel blocker, or digoxin) without an antiarrhythmic. As dronedarone has anti-adrenergic rate controlling properties, a low dose of beta-blocker or calcium-channel blocker is recommended in the USPI when starting dronedarone. In the dronedarone arm concomitant digoxin use will be contraindicated due to P-gp interaction based upon data from the PALLAS trial. All patients will receive oral anticoagulation for stroke prevention according to current guideline recommendations.\n\nCHANGE AFIB will leverage several critical advantages as a pragmatic clinical trial. Data collection will be integrated into the Get With The Guidelines AFIB registry. The use of the GWTG-AFIB registry will also enhance subject recruitment and ensure the enrollment of a diverse group of patients. The randomized intervention will be compared with usual care thus further enhancing generalizability. Follow-up visits will be minimized to reduce patient burden. Moreover, follow-up visits will have \"windows\" to accommodate variation in follow-up intervals at different centers.",
+				"PHASE_DESC": "IV",
+				"TREATMENT_TYPE_DESC": "INT - Drug",
+				"AGE_DESCRIPTION": "Adults",
+				"SCOPE_DESC": "National",
+				"LOCATION_NAME": "",
+				"SUMMARY": "Determine if early treatment with dronedarone is superior to usual care for the prevention of cardiovascular hospitalization or death from any cause in patients with first-detected atrial fibrillation.",
+				"MODIFIED_DATE": "2023-08-14T15:53:02",
+				"DEPARTMENT_NAME": "CCR",
+				"SPONSOR_NAMES": {
+					"SPONSOR_NAME": "American Heart Association"
+				},
+				"DISEASE_SITES": {
+					"DISEASE_SITE": "Heart - Cardiovascular/ Circulatory"
+				},
+				"DRUG_NAMES": "",
+				"THERAPY_NAMES": ""
+			},
+			{
+				"PROTOCOL_NO": "CCR-22-13",
+				"TITLE": "A prospective, multicenter, randomized, controlled pivotal trial to evaluate the safety and effectiveness of transcatheter tricuspid valve repair with the Edwards PASCAL Transcatheter Valve Repair System and optimal medical therapy (OMT) compared to OMT alone in patients with tricuspid regurgitation",
+				"NCT_ID": "NCT04097145",
+				"SHORT_TITLE": "CLASP II TR Pivotal Clinical Trial",
+				"INVESTIGATOR_NAME": "Antonio Frangieh",
+				"STATUS": "OPEN TO ACCRUAL",
+				"ELIGIBILITY": "Tricuspid Regurgitation\nTricuspid Valve Insufficiency\nTricuspid Valve Disease\n18 Years and older   (Adult, Older Adult)",
+				"DETAILED_ELIGIBILITY": "Inclusion Criteria:\n1.  Eighteen (18) years of age or older\n2.  Despite medical therapy, per the local Heart Team, patient has signs of TR, symptoms from TR, or prior heart failure hospitalization from TR.\n3.  Severe or greater tricuspid regurgitation\n4.  New York Heart Association (NYHA) Class II-IVa or heart failure hospitalization in the prior 12 months\n5.  Patient is at an intermediate or greater estimated risk of mortality with tricuspid valve surgery as determined by the cardiac surgeon with concurrence by the local Heart Team\n6.  Patient is able and willing to give informed consent, follow protocol procedures, and comply with follow-up visit requirements\n\nExclusion Criteria:\n1.  Tricuspid valve anatomy not evaluable by TTE or TEE\n2.  Tricuspid valve anatomy precludes proper device deployment and function\n3.  Patient with refractory heart failure requiring, advanced intervention (i.e. patient has or will need left ventricular assist device, or transplantation) (ACC/AHA Stage D heart failure)\n4.  Presence of trans-tricuspid pacemaker or defibrillator leads which meet one of the following: a) Would prevent proper TR reduction due to interaction of the lead with the leaflets; b) Were implanted in the RV within the last 90 days prior to the point of enrollment.\n5.  Primary non-degenerative tricuspid disease\n6.  Previous tricuspid valve repair or replacement that would interfere with placement of PASCAL\n7.  Clinically significant, untreated coronary artery disease requiring revascularization, unstable angina, evidence of acute coronary syndrome, recent myocardial infarction\n8.  Significant intra-cardiac mass, thrombus, or vegetation per core lab assessment\n9.  Deep vein thrombosis (DVT) or pulmonary embolism (PE) in the last 180 days\n10.  Recent Stroke\n11.  Active gastrointestinal (GI) bleeding\n12.  Presence of infiltrative cardiomyopathy or valvulopathy (including carcinoid, amyloidosis, sarcoidosis, hemochromatosis) or significant congenital heart disease, including but not limited to atrial septal defect, RV dysplasia, and arrhythmogenic RV\n13.  Need for emergent or urgent surgery for any reason, any planned cardiac surgery within the next 12 months (365 days), or any planned percutaneous cardiac procedure within the next 90 days\n14.  Any of the following cardiovascular procedures: a) Percutaneous coronary, intracardiac, or endovascular intervention within the last 30 days prior to the point of enrollment; b) Carotid surgery within 30 days prior to the point of enrollment; c) Direct current cardioversion within the last 30 days prior to the point of enrollment; d) Leadless RV pacemaker implant within the last 30 days prior to the point of enrollment; and, e) Cardiac surgery within 90 days prior to the point of enrollment.\n15.  Severe aortic, mitral and/or pulmonic valve stenosis and/or regurgitation\n16.  Known history of untreated severe symptomatic carotid stenosis or asymptomatic carotid stenosis\n17.  Active endocarditis or recent infection requiring antibiotic therapy\n18.  Chronic obstructive pulmonary disease (COPD) requiring continuous home oxygen\n19.  Pregnant or planning pregnancy within the next 12 months\n20.  Concurrent medical condition with a life expectancy of less than 12 months in the judgment of the Investigator\n21.  Patient is currently participating in another investigational biologic, drug, or device clinical study\n22.  Patient has other medical, social, or psychological conditions that preclude appropriate consent and follow-up, or the patient is under guardianship\n23.  Any patient considered to be vulnerable",
+				"DESCRIPTION": "A Prospective, multicenter, randomized, controlled pivotal trial to evaluate the safety and effectiveness of transcatheter tricuspid valve repair with the Edwards PASCAL Transcatheter Valve Repair System and optimal medical therapy (OMT) compared to OMT alone in patients with tricuspid regurgitation. Patients will be seen for follow-up visits at discharge, 30 days, 3 months, 6 months, and annually through 5 years.",
+				"PHASE_DESC": "N/A",
+				"TREATMENT_TYPE_DESC": "INT - Device",
+				"AGE_DESCRIPTION": "Adults",
+				"SCOPE_DESC": "",
+				"LOCATION_NAME": "",
+				"SUMMARY": "",
+				"MODIFIED_DATE": "2023-05-25T09:36:08",
+				"DEPARTMENT_NAME": "CCR",
+				"SPONSOR_NAMES": {
+					"SPONSOR_NAME": "Edwards Lifesciences"
+				},
+				"DISEASE_SITES": {
+					"DISEASE_SITE": "Heart - Cardiovascular/ Circulatory"
+				},
+				"DRUG_NAMES": "",
+				"THERAPY_NAMES": ""
+			},
+			{
+				"PROTOCOL_NO": "CCR-22-96",
+				"TITLE": "Edwards PASCAL TrAnScatheter Valve RePair System Pivotal Clinical Trial (CLASP IID/IIF): A prospective, multicenter, randomized, controlled pivotal trial to evaluate the safety and effectiveness of transcatheter mitral valve repair with the Edwards PASCAL Transcatheter Valve Repair System compared to Abbott MitraClip in patients with mitral regurgitation.",
+				"NCT_ID": "NCT03706833",
+				"SHORT_TITLE": "Edwards PASCAL CLASP IID/IIF Pivotal Clinical Trial",
+				"INVESTIGATOR_NAME": "Antonio Frangieh",
+				"STATUS": "OPEN TO ACCRUAL",
+				"ELIGIBILITY": "18 Years and older (Adult,  Older Adult )",
+				"DETAILED_ELIGIBILITY": "Inclusion Criteria:\n1.  Eighteen (18) years of age or older\n2.  Patient is able and willing to give informed consent and follow protocol procedures, and comply with follow-up visit requirements.\n3.  Patient is determined to be at prohibitive risk for mitral valve surgery by the heart team (CLASP IID cohort only).\n4.  Patient is on stable heart failure medications/Guideline Directed Medical Therapy (CLASP IIF cohort only)\n5.  Patient is determined to be a candidate for transcatheter mitral valve repair by the heart team for both PASCAL and MitraClip\n6.  Mitral regurgitation (3+ to 4+) by echo\n7.  Suitable valve and regurgitant jet morphology\n8.  Elevated corrected BNP > 400 pg/ml or corrected NT-pro BNP of > 900 pg/ml or heart failure hospitalization within the past 12 months (CLASP IIF cohort only)\n9.  LVEF greater than or equal to 20% (and less than or equal to 50%; CLASP IIF cohort only)\n\nExclusion Criteria:\n1.  Patient in whom a TEE is contraindicated or screening TEE is unsuccessful\n2.  Mitral valve anatomy which may preclude proper PASCAL or MitraClip access, use and/or deployment or sufficient reduction in mitral regurgitation\n3.  Patient with refractory heart failure requiring advanced intervention (i.e. left ventricular assist device, Status &#8804;5 heart transplantation) (ACC/AHA Stage D heart failure)\n4.  Clinically significant, untreated coronary artery disease\n5.  Recent stroke\n6.  Other severe valve disorders requiring intervention\n7.  Need for emergent or urgent surgery for any reason or any planned cardiac surgery within the next 12 months\n8.  Any prior mitral valve surgery or transcatheter mitral valve procedure (excluding chordal replacement or surgical annuloplasty repair)\n9.  Severe tricuspid regurgitation or tricuspid valve disease requiring surgery\n10.  Active rheumatic heart disease or rheumatic etiology for MR\n11.  Severe aortic stenosis or regurgitation\n12.  Known history of untreated, severe carotid stenosis\n13.  Recent deep vein thrombosis (DVT) or pulmonary embolism (PE) \n14.  Severe COPD\n15.  Pregnant or planning pregnancy within next 12 months. Note: Female patients of childbearing potential need to have a negative pregnancy test performed within 14 days prior to intervention and be adherent to an accepted method of contraception\n16.  Concurrent medical condition with a life expectancy of less than 12 months in the judgment of the Investigator\n17.  Patient is currently participating in another investigational biologic, drug or device clinical study where the primary study endpoint was not reached at time of enrollment\n18.  Other medical, social, or psychological conditions that preclude appropriate consent and follow-up, including patients under guardianship",
+				"DESCRIPTION": "A prospective, multicenter, randomized, controlled pivotal trial to evaluate the safety and effectiveness of transcatheter mitral valve repair with the Edwards PASCAL Transcatheter Valve Repair System compared to Abbott MitraClip in patients with degenerative mitral regurgitation (DMR) who have been determined to be at prohibitive risk for mitral valve surgery by the Heart Team, and in patients with functional mitral regurgitation (FMR) on guideline directed medical therapy (GDMT)\n\nPatients will be seen for follow-up visits at discharge, 30 days, 6 months, and annually through 5 years.",
+				"PHASE_DESC": "N/A",
+				"TREATMENT_TYPE_DESC": "INT - Device",
+				"AGE_DESCRIPTION": "Adults",
+				"SCOPE_DESC": "National",
+				"LOCATION_NAME": "",
+				"SUMMARY": "The objectives of this pivotal clinical trial are to evaluate the safety and effectiveness of the PASCAL System for transcatheter mitral valve repair compared to the MitraClip System in the treatment of patients with symptomatic degenerative mitral regurgitation (DMR) and who have been determined to be at prohibitive risk for mitral valve surgery by the Heart Team.",
+				"MODIFIED_DATE": "2023-07-26T16:23:02",
+				"DEPARTMENT_NAME": "CCR",
+				"SPONSOR_NAMES": {
+					"SPONSOR_NAME": "Edwards Lifesciences"
+				},
+				"DISEASE_SITES": {
+					"DISEASE_SITE": "Cardiovascular Disease"
+				},
+				"DRUG_NAMES": "",
+				"THERAPY_NAMES": ""
+			},
+			{
+				"PROTOCOL_NO": "CCR-23-06",
+				"TITLE": "EVOLVE-MI: A Pragmatic Randomized Multicenter Trial of EVOLocumab Administered\nVery Early to Reduce the Risk of Cardiovascular Events in Patients Hospitalized With Acute Myocardial Infarction",
+				"NCT_ID": "NCT05284747",
+				"SHORT_TITLE": "EVOLVE-MI: EVOLocumab Very Early after Myocardial Infarction",
+				"INVESTIGATOR_NAME": "Ailin Barseghian Elfarra",
+				"STATUS": "OPEN TO ACCRUAL",
+				"ELIGIBILITY": "18 Years to 99 Years (Adult,  Older Adult )",
+				"DETAILED_ELIGIBILITY": "Inclusion Criteria:\n1.Age greater than or equal to 18 years\n2.Hospitalized for primary reason of NSTEMI or STEMI due to presumed atherosclerotic disease\n\n\nExclusion Criteria:\n1.Participants requiring invasive hemodynamic and/or vasopressor/inotropic support at the time of screening\n2.Participants with elevated biomarkers of myocardial injury due to secondary/nonatherosclerotic etiology (eg, sepsis, atrial fibrillation, vasospasm, decompensated heart failure, uncontrolled hypertension, stress induced cardiomyopathy)",
+				"DESCRIPTION": "",
+				"PHASE_DESC": "N/A",
+				"TREATMENT_TYPE_DESC": "INT - Drug",
+				"AGE_DESCRIPTION": "Adults",
+				"SCOPE_DESC": "",
+				"LOCATION_NAME": "",
+				"SUMMARY": "To evaluate the effectiveness of treatment with evolocumab plus routine lipid management vs routine lipid management alone when administered in the acute setting to reduce myocardial infarction, ischemic stroke, arterial revascularization, and all-cause death in subjects hospitalized for an acute myocardial infarction (NSTEMI and STEMI).",
+				"MODIFIED_DATE": "2023-08-08T14:42:20",
+				"DEPARTMENT_NAME": "CCR",
+				"SPONSOR_NAMES": {
+					"SPONSOR_NAME": [
+						"The Colorado Prevention Center d/b/a CPC Clinical Research",
+						"Amgen Inc."
+					]
+				},
+				"DISEASE_SITES": {
+					"DISEASE_SITE": "Heart - Cardiovascular/ Circulatory"
+				},
+				"DRUG_NAMES": "",
+				"THERAPY_NAMES": ""
+			}
+		]
+
+	}
+}
