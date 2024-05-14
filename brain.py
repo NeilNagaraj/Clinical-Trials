@@ -10,6 +10,8 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores.faiss import FAISS
 from PyPDF2 import PdfReader
 import faiss
+import json
+from pathlib import Path
 from openai.embeddings_utils import cosine_similarity
 
 
@@ -127,3 +129,32 @@ def form_query( first_query, second_query):
 
 def Average(lst): 
     return sum(lst) / len(lst) 
+
+
+def custom_search(matches):
+    
+    data = json.loads(Path("study_data.json").read_text())
+    docs = []
+    for protocol in data:
+            if protocol["NCT_ID"] in matches:
+                text = "NCT ID: " + protocol["NCT_ID"] + " "
+                text += "Title: " + protocol["TITLE"] + " "
+                text += "Short Title: " + protocol["SHORT_TITLE"] + " "
+                text += "Sponsor: " + protocol["SPONSOR"] + " "
+                text += "Detailed Eligibility: " + protocol["DETAILED_ELIGIBILITY"] + " "
+                if "DESCRIPTION" in protocol:
+                    text += "Description: " + protocol["DESCRIPTION"] + " "
+                text += "Summary: " + protocol["SUMMARY"] + " "
+                text += "Status: " + protocol["STATUS"] + " "
+                if  "OUTCOME_DESCRIPTION" in protocol:
+                    text += "Outcome Description: " + protocol["OUTCOME_DESCRIPTION"] + " "
+                if "OUTCOME_MEASURE" in protocol:
+                    text += "Outcome Measure: " + protocol["OUTCOME_MEASURE"] + " "
+                if "OUTCOME_TIMEFRAME" in protocol:
+                    text += "Outcome Timeframe: " + protocol["OUTCOME_TIMEFRAME"] + " "
+                text += "Age Description: " + protocol["AGE_DESCRIPTION"] + " "
+                if "INVESTIGATOR_NAME" in protocol:
+                    text += "Investigator Name: " + protocol["INVESTIGATOR_NAME"]+ " "
+                docs.append(Document(page_content=text, metadata={"source": protocol["NCT_ID"]}))
+    
+    return docs

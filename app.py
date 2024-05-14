@@ -69,7 +69,7 @@ if choice == "Policy Database":
         embeddings = OpenAIEmbeddings(openai_api_key=api_key)
         db = FAISS.load_local(faiss_path, embeddings)
         answer = "No" if len(prompt)<=2 else queries_similar(prompt, question)
-       
+        
         if not "results" in st.session_state or answer == "No":
             st.session_state["results"] = db.similarity_search_with_score(question, k=5)
         
