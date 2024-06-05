@@ -7,7 +7,10 @@ from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores.faiss import FAISS
+from langchain.chains import create_history_aware_retriever
+from langchain_community.chat_models import ChatOpenAI
 from brain import custom_search
+from langchain import hub
 import os
 import re 
 
@@ -54,7 +57,7 @@ if question:
 
     faiss_path = r"new_db"
     embeddings = OpenAIEmbeddings(openai_api_key=api_key)
-    db = FAISS.load_local(faiss_path, embeddings)
+    db = FAISS.load_local(faiss_path, embeddings, allow_dangerous_deserialization=True)
     pattern = r'\bNCT\d{8}\b'
     matches = re.findall(pattern, question)
     
@@ -93,3 +96,4 @@ if question:
     prompt.append({"role": "assistant", "content": result})
 
     st.session_state["prompt"] = prompt
+
